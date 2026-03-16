@@ -4,6 +4,7 @@ const PLATFORM_COUNT = 6;
 const JUMP = -700;
 const SPEED = 260;
 var helias;
+var helias2;
 let player;
 let platforms;
 let cursors;
